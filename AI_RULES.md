@@ -1,6 +1,6 @@
 # AI Editor Rules and Project Guidelines
 
-This document outlines the technical stack and specific rules for maintaining consistency and quality within the project codebase.
+This document outlines the technical stack and specific rules for maintaining consistency and quality within the project codebase..
 
 ## 1. Tech Stack Overview
 
